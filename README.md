@@ -137,6 +137,10 @@
    git clone https://github.com/ryanhay/ocp4-metal-install
    ```
 
+   If your helper node uses the `10.10.10.0/24` network instead of the default
+   `192.168.22.0/24`, copy the files in `examples/custom-10.10.10` from the
+   cloned repository and use them in place of the default configuration files.
+
 1. OPTIONAL: Create a file '~/.vimrc' and paste the following (this helps with editing in vim, particularly yaml files):
 
    ```bash
