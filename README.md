@@ -1,5 +1,7 @@
 # OpenShift 4 Bare Metal Install - User Provisioned Infrastructure (UPI)
 
+This repository contains sample configuration files and step-by-step instructions for deploying a user-provisioned OpenShift 4 cluster on bare metal. The examples cover services such as BIND, DHCP, HAProxy and NFS that are required during installation.
+
 - [OpenShift 4 Bare Metal Install - User Provisioned Infrastructure (UPI)](#openshift-4-bare-metal-install---user-provisioned-infrastructure-upi)
   - [Architecture Diagram](#architecture-diagram)
   - [Download Software](#download-software)
